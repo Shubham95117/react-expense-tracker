@@ -12,6 +12,7 @@ function App() {
     { id: 6, title: "Book2", date: new Date(2024, 9, 17), price: 200 },
     { id: 7, title: "Laptop3", date: new Date(2024, 9, 17), price: 200 },
     { id: 7, title: "Sack", date: new Date(2023, 9, 17), price: 200 },
+    { id: 8, title: "Sack", date: new Date(2023, 9, 17), price: 200 },
   ])
   
   const addExpenseHandler=(newExpenses)=>{
